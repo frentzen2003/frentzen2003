@@ -31,7 +31,7 @@ Welcome to Frentzen Navaro Siauwtama profile!
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/frentzen2003">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Neeraj2002's streak" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frentzen2003)](https://git.io/streak-stats)"/>
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=frentzen2003)](https://git.io/streak-stats)"/>
   </a>
 </p>
 
